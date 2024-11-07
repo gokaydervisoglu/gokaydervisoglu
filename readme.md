@@ -1,59 +1,55 @@
-<h2 align="center">Hi 👋, I'm Gokay Dervisoglu, Computer Engineer</h2>
+<h1 align="center">Hi 👋, I'm Gokay Dervisoglu</h1>
+<h3 align="center">A Passionate Computer Engineer</h3>
 
-###
+<p align="center">🌐 <a href="https://gokaydervisoglu.com">gokaydervisoglu.com</a> | ✉️ <a href="mailto:gokaydervisoglu@gmail.com">gokaydervisoglu@gmail.com</a></p>
 
-<h4 align="center">-How to reach me-</h4>
-
-###
-
-###
-<div align="center">
-<a href = "mailto:gokaydervisoglu@gmail.com">gokaydervisoglu@gmail.com</a>
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokaydervisoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydervisoglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gokaydervisoglu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-###
-
-<h4 align="center">-Connect with me-</h4>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gokaydervisoglu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21396286/gokaydervisoglu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/gokaydervisoglu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="https://github.com/gokaydervisoglu">
+    <img src="https://github-readme-stats.vercel.app/api?username=gokaydervisoglu&show_icons=true&count_private=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydervisoglu&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
   </a>
 </div>
 
-###
+---
 
+<h3 align="center">🔧 Technologies & Tools</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+</div>
+
+---
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gokaydervisoglu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gokaydervisoglu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://gokaydervisoglu.com">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm Gokay, a Computer Engineer with a passion for developing solutions that bridge technology and creativity. My work spans across software development, web design, and digital artistry. With experience in **Python**, **C#**, **Web Development** (HTML/CSS), and **MySQL**, I am always looking forward to learning new technologies and expanding my skill set.
+
+---
+
+Feel free to explore my projects, and let’s connect if you're interested in collaboration!
+
+--- 
