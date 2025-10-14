@@ -1,15 +1,20 @@
-# Hi there, I'm Gokay Dervisoglu 👋
+# Hi there, I'm Gökay Dervişoğlu 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast focused on creating intelligent and practical solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gokaydervisoglu&color=brightgreen)
 
 ---
 
-
 ## 🚀 About Me
 
-I'm Gokay, a Computer Engineer with a passion for developing solutions that bridge technology and creativity. My work spans across software development, web design, and digital artistry. With experience in **Python**, **C#**, **Web Development** (HTML/CSS), and **MySQL**, I am always looking forward to learning new technologies and expanding my skill set.
+I'm **Gökay Dervişoğlu**, a **Computer Engineer** who loves working on **AI, computer vision, and embedded systems**.  
+I enjoy building projects that blend **software, hardware, and machine learning**, from real-time vision systems to UAV-based automation.
+
+My current focus areas include:
+- Deep Learning & Computer Vision  
+- UAV Systems
+- AI-driven Education & Evaluation Systems  
 
 ---
 
@@ -24,11 +29,11 @@ I'm Gokay, a Computer Engineer with a passion for developing solutions that brid
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress" />
 </div>
 
 ---
@@ -51,4 +56,3 @@ I'm Gokay, a Computer Engineer with a passion for developing solutions that brid
 
 Feel free to explore my projects, and let’s connect if you're interested in collaboration!
 
---- 
