@@ -14,7 +14,9 @@ I enjoy building projects that blend **software, hardware, and machine learning*
 My current focus areas include:
 - Deep Learning & Computer Vision  
 - UAV Systems
-- AI-driven Education & Evaluation Systems  
+- AI-driven Education & Evaluation Systems
+
+I'm also the founder of [AI2X Software](https://ai2xsoftware.com), where we develop next-generation AI-based education and evaluation platforms.
 
 ---
 
@@ -47,7 +49,7 @@ My current focus areas include:
   <a href="mailto:gokaydervisoglu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ai2xsoftware.com/">
+  <a href="https://gokaydervisoglu.com/">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
