@@ -1,60 +1,30 @@
-# Hi there, I'm Gökay Dervişoğlu 👋
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Hi,%20I'm%20Gökay%20Dervişoğlu&fontSize=62&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer&descSize=22&descAlignY=55)](https://github.com/gokaydervisoglu)
 
-Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast focused on creating intelligent and practical solutions.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4500&pause=500&color=2C5364&width=620&lines=Building+software+projects;Web+%26+mobile+focused" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gokaydervisoglu&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=gokaydervisoglu&label=Profile%20views&color=2c5364)
 
----
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,html,css,cs,c)](https://skillicons.dev)
 
-## 🚀 About Me
+### Tools & Technologies
+[![Tools](https://skillicons.dev/icons?i=mysql,git,github,docker,linux,maven)](https://skillicons.dev)
 
-I'm **Gökay Dervişoğlu**, a **Computer Engineer** who loves working on **AI, computer vision, and embedded systems**.  
-I enjoy building projects that blend **software, hardware, and machine learning**, from real-time vision systems to UAV-based automation.
-
-My current focus areas include:
-- Deep Learning & Computer Vision  
-- UAV Systems
-- AI-driven Education & Evaluation Systems
-
-I'm also the founder of [AI2X Software](https://ai2xsoftware.com), where we develop next-generation AI-based education and evaluation platforms.
-
----
-
-## 📈 GitHub Stats
-
-![Gokay's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokaydervisoglu&show_icons=true&theme=radical)
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
-</div>
-
----
-
-## 🔗 Connect with Me
+### Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/gokaydervisoglu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/gokaydervisoglu">
+    <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gokaydervisoglu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://gokaydervisoglu.com/">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://gokaydervisoglu.com">
+    <img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
----
 
-Feel free to explore my projects, and let’s connect if you're interested in collaboration!
 
